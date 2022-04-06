@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f9a2e9-082b-4672-96d1-e33742669dcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Солнцев Матвей/mytelebot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-МД-25/Салахов/test/DZ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-МД-25/Салахов/test/botGames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-МД-25/Салахов/test/menuBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-МД-4/Исраилов Т.Э/Rsp/welcome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ксения/.idea/Ксения.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ксения/bot/.idea/bot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Максаков Владислав/python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Максаков Владислав/python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Солнцев Матвей/bot1/.idea/bot1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Солнцев Матвей/bot1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Солнцев Матвей/bot1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Солнцев Матвей/bot1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-19/PyTeleBot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1-МД-19/PyTeleBot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-19/Зворыгина Екатерина/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-19/Копина Саша/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-19/Копина Саша/.idea/pythonProject14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/.idea/Поспелов Никита.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/.idea/Поспелов Никита.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/duraley bot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1-МД-20/Поспелов Никита/duraley bot/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-МД-8/Курочкин КД/2 семестр/telebt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1-МД-8/Курочкин КД/2 семестр/telebt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27QqyRMPhmWUZb0oI9vooG2Gts0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bot1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\student\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f9a2e9-082b-4672-96d1-e33742669dcb" name="Changes" comment="" />
+      <created>1649262913486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649262913486</updated>
+    </task>
+    <servers />
+  </component>
+</project>
